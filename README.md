@@ -59,4 +59,3 @@ Toda a documentação do projeto está organizada na pasta [documentacao](https:
 - [Diagramas UML](https://github.com/lucasconde16/pimiv/tree/main/documentacao/imagens/diagramas) *(em desenvolvimento)*  
 - [Manual do Usuário](https://github.com/lucasconde16/pimiv/tree/main/documentacao/cliente/Manual_Usuario.md) *(em desenvolvimento)*  
 
-<h2 id="autor">🤝 Autor</h2>
