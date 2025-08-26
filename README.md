@@ -7,13 +7,10 @@
 
 <p align="center">
  <a href="#about">Sobre</a> • 
- <a href="#desafio">Desafio</a> • 
- <a href="#backlog">Backlog</a> • 
+ <a href="#desafio">Desafio</a> •  
  <a href="#sprints">Sprints</a> • 
  <a href="#tec">Tecnologias</a> • 
- <a href="#doc">Documentação</a> • 
- <a href="#autor">Autor</a> • 
- <a href="#licenca">Licença</a>
+ <a href="#doc">Documentação</a> •  
 </p>
 
 > Status do Projeto: Em desenvolvimento 🔄
