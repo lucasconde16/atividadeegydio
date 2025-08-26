@@ -110,4 +110,4 @@ Este projeto foi desenvolvido por mim com dedicação, como parte do meu aprendi
 
 <h2 id="licenca">📃 Licença</h2>
 
-[MIT © Matheus Gomes.](https://github.com/lucasconde16/teste/blob/main/LICENSE)
+[MIT © Lucas Conde.](https://github.com/lucasconde16/teste/blob/main/LICENSE)
