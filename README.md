@@ -33,7 +33,7 @@ O desafio consiste em desenvolver um sistema de suporte técnico baseado, seguin
 
 | Sprint | Período | Documentação | Objetivo |
 |--------|---------|--------------|-------|
-| **SPRINT 1** | 19/08 - 26/08 | [📄 Sprint 1 Docs](https://github.com/lucasconde16/pimiv/tree/main/documentacao/processo/sprints/sprint-1) | Elaboração dos casos de uso, baseado no backlog do produto. |
+| **SPRINT 1** | 19/08 - 26/08 | [📄 Sprint 1 Docs](https://github.com/lucasconde16/atividadeegydio/blob/main/diagramas/casos-de-uso.md) | Elaboração dos casos de uso, baseado no backlog do produto. |
 | **SPRINT 2** | 26/08 - 02/09 | [📄 Sprint 2 Docs](https://github.com/lucasconde16/pimiv/tree/main/documentacao/processo/sprints/sprint-2) | *(A definir)* |
 | **SPRINT 3** | 02/09 - 09/09 | [📄 Sprint 3 Docs](https://github.com/lucasconde16/pimiv/tree/main/documentacao/processo/sprints/sprint-3) | *(A definir)* |
 
